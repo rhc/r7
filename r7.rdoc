@@ -1,0 +1,5 @@
+= r7
+
+Generate this with
+    r7 _doc
+After you have described your command line interface
